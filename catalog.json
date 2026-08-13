@@ -1,0 +1,13 @@
+{
+  "modules": [
+    {
+      "id": "ios_input_panel",
+      "name": "ios_input_panel",
+      "description": "ios_input_panel",
+      "author": "@swagnonher",
+      "version": "1.0",
+      "icon": "Swagapluginsicon/24",
+      "url": "https://hub.mos.ru/sterepando/mandretweaks/-/raw/main/Modules/ios_input_panel.dex"
+    }
+  ]
+}
