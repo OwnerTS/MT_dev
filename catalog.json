@@ -10,13 +10,13 @@
       "url": "https://github.com/OwnerTS/MT_dev/raw/refs/heads/main/modules/ios_input_panel.dex"
     },
     {
-      "id": "TopFadeBlur",
-      "name": "iOS Top Blur Fade",
-      "description": "Плавный Fade сверху с размытием в стиле Telegram iOS (EdgeEffect) вместо обычного сплошного градиента",
+      "id": "IosFade",
+      "name": "iOS Fade",
+      "description": "Дристает блюром/жидкимговном по фейду сверху. Рекомендую юзать с ликвед ассом <3",
       "author": "@swagnonher",
       "version": "1.0",
-      "icon": "Swagapluginsicon/20",
-      "url": "https://github.com/OwnerTS/MT_dev/raw/refs/heads/main/modules/TopFadeBlur.dex"
+      "icon": "UtyaDuckFull/62",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2FIosFade.dex"
     },
     {
       "id": "DesktopChatLayout",
