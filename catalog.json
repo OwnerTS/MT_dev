@@ -10,13 +10,13 @@
       "url": "https://github.com/OwnerTS/MT_dev/raw/refs/heads/main/modules/ios_input_panel.dex"
     },
     {
-      "id": "iostopblur",
+      "id": "TopFadeBlur",
       "name": "iOS Top Blur Fade",
       "description": "Плавный Fade сверху с размытием в стиле Telegram iOS (EdgeEffect) вместо обычного сплошного градиента",
       "author": "@swagnonher",
       "version": "1.0",
       "icon": "Swagapluginsicon/20",
-      "url": "https://github.com/OwnerTS/MT_dev/raw/refs/heads/main/modules/iostopblur.dex"
+      "url": "https://github.com/OwnerTS/MT_dev/raw/refs/heads/main/modules/TopFadeBlur.dex"
     },
     {
       "id": "DesktopChatLayout",
